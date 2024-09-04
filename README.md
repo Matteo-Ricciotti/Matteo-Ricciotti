@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Turin, Italy
-* 🖥️  See my portfolio at [matteoricciotti.vercel.app (building it)](http://https://matteoricciotti.vercel.app/)
+* 🖥️  See here my [portfolio](https://ricciottimatteo.com/)
 * ✉️  You can contact me at [ricciottimatteo2003@gmail.com](mailto:ricciottimatteo2003@gmail.com)
 * 🚀  I'm currently working on [Jiulien Discord Bot](http://jiulien.com/)
 
